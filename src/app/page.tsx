@@ -6,5 +6,5 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
-  return <h1>Welcome to my website!</h1>;
+  return <h1>Welcome to my personal website!</h1>;
 }
