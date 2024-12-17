@@ -59,10 +59,10 @@ const Navbar = () => {
             variant="h6"
             noWrap
             component="a"
-            href="#app-bar-with-responsive-menu"
+            href="#"
             sx={{ ...styles.logo, ...styles.logoDesktop }}
           >
-            LOGO
+            NICKY
           </Typography>
 
           {/* Mobile Menu */}

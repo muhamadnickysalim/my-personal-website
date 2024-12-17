@@ -21,6 +21,7 @@ const navbarProperties = {
   navMenuDesktop: {
     display: { xs: "none", md: "flex" },
     flexGrow: 1,
+    justifyContent: "center",
   },
   navButton: {
     my: 2,
